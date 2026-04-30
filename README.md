@@ -33,3 +33,8 @@ Each notebook can be opened in Jupyter Notebook, JupyterLab, Google Colab, or VS
 ## Portfolio Link
 
 Repository URL: https://github.com/winaung786/Win-Aung-ML-Course
+
+## Actual Canvas Submissions
+
+The repository now includes the actual lab and assignment files downloaded from Canvas. See [`CANVAS_SUBMISSION_MANIFEST.md`](CANVAS_SUBMISSION_MANIFEST.md) for a folder-by-folder list of the submitted files, including A01, A03, Assignment 04, L02, L04, L05, L07, the bonus lab, and the Midterm document. The Canvas Final Project assignment had no submitted file available at the time of download.
+
